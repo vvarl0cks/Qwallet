@@ -1,4 +1,4 @@
-# Aqua Wallet
+# Aqua Wallet [Sepolia Testnet]
 
 A crypto wallet that makes it easy to use the blockchain.
 
